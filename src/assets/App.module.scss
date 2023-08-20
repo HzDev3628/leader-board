@@ -1,0 +1,23 @@
+.global{
+    position: relative;
+    overflow: hidden;
+    .global_info_page{
+        position: relative;
+        z-index: 2;
+    }
+    
+    .img{
+        width: 1838.498px;
+        height: 1149.061px;
+        transform: rotate(-167.021deg);
+    
+        position: absolute;
+    
+        top: 100px;
+        left: -600px;
+    
+        opacity: 0.2;
+        
+        z-index: 2;
+    }
+}
